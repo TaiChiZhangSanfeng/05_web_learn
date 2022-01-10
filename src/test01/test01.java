@@ -18,5 +18,6 @@ public class test01 {
         System.out.println("niahao");
         System.out.println("nihao");
         System.out.println("push");
+        System.out.println("pull test");
     }
 }
