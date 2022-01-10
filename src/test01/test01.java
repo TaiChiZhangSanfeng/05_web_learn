@@ -16,5 +16,6 @@ public class test01 {
         System.out.println("nihao");
         System.out.println("niahao");
         System.out.println("niahao");
+        System.out.println("nihao");System.out.println("ni111hao");
     }
 }
