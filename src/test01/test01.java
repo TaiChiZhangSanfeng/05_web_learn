@@ -9,5 +9,6 @@ import com.alibaba.druid.pool.DruidDataSource;
 public class test01 {
     public static void main(String[] args) {
         DruidDataSource dds = new DruidDataSource();
+        System.out.println("nihao");
     }
 }
