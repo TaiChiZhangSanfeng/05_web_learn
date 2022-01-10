@@ -8,8 +8,12 @@ import com.alibaba.druid.pool.DruidDataSource;
  */
 public class test01 {
     public static void main(String[] args) {
+        System.out.println("nihao");
         DruidDataSource dds = new DruidDataSource();
         System.out.println("nihao");
         System.out.println("nihao");
+        System.out.println("nihao");
+        System.out.println("nihao");
+        System.out.println("niahao");
     }
 }
